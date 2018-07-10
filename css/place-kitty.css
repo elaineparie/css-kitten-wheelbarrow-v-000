@@ -30,7 +30,7 @@
 #ball + img {
   position: absolute;
   z-index: 4;
-  top: 500px;
+  top: 260px;
   left: 455px;
 }
 
